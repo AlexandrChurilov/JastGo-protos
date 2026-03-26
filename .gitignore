@@ -1,0 +1,13 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Скомпилированные файлы (опционально)
+*.exe
+*.dll
+*.so
