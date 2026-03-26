@@ -1,4 +1,4 @@
-module protos
+module github.com/AlexandrChurilov/JastGo-protos
 
 go 1.25
 
